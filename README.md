@@ -2,7 +2,7 @@
 Todo o conteúdo do curso de eletrônica digital
 
 # Arquivos e códigos
-Os códigos estão organizados em branches pelo número da aula.
+Os códigos estão organizados em pastas neste repositório.
 
 # Aulas
 1. [Apresentação](https://www.youtube.com/watch?v=IRJda2HltL8)
