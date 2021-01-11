@@ -1,10 +1,10 @@
 # Arduino
 Todo o conteúdo do curso de eletrônica digital
 
-# Arquivos e códigos
+### Arquivos e códigos
 Os códigos estão organizados em pastas neste repositório.
 
-# Aulas
+### Aulas
 1. [Apresentação](https://www.youtube.com/watch?v=IRJda2HltL8)
 2. [Software](https://www.youtube.com/watch?v=hyHxiKeev3o)
 3. [Piscar LED](https://www.youtube.com/watch?v=RgMYH0k2)
